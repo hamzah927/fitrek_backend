@@ -1,0 +1,58 @@
+[
+  {
+    "id": "upper-lower",
+    "name": "Upper Lower Split",
+    "description": "3-workout split with Upper 1, Lower 1, and Lower 2 for balanced muscle development",
+    "difficulty": "Intermediate",
+    "duration": "45-60 minutes",
+    "frequency": "3-4 days per week",
+    "workouts": [
+      {
+        "name": "Upper 1",
+        "exercises": [2, 3, 10, 12, 22, 34, 31, 30],
+        "sets": [2, 2, 2, 2, 2, 2, 2, 1],
+        "notes": "Incline Machine Press, Pec Dec Flies, Neutral Grip Lat Pulldown, Chest Supported Rows, Overhead Press, Preacher Curls, Tricep Pushdowns, Hammer Curls"
+      },
+      {
+        "name": "Lower 1",
+        "exercises": [16, 18, 19, 20, 21],
+        "sets": [2, 2, 2, 2, 2, 1],
+        "notes": "Leg Press (Quads Targeted), Seated Leg Curls, Leg Extensions, Stiff Legged Deadlifts, Standing Calf Raises, Barbell Hip Thrusts"
+      },
+      {
+        "name": "Lower 2",
+        "exercises": [15, 18, 19, 16, 21],
+        "sets": [2, 2, 2, 2, 1, 1, 2],
+        "notes": "Barbell Smith Squat, Seated Leg Curls, Leg Extensions, Glute Focused Leg Press, Abductors, Adductors, Standing Calf Raises"
+      }
+    ]
+  },
+  {
+    "id": "push-pull-legs",
+    "name": "Push Pull Legs",
+    "description": "Classic 3-day split focusing on pushing movements, pulling movements, and leg training",
+    "difficulty": "Intermediate",
+    "duration": "45-60 minutes",
+    "frequency": "3-6 days per week",
+    "workouts": [
+      {
+        "name": "Push",
+        "exercises": [2, 3, 35, 31, 23, 22],
+        "sets": [2, 2, 2, 2, 2, 2],
+        "notes": "Incline Dumbbell Press, Pec Dec Flies, Dips, Tricep Pushdowns, Lateral Raises, Shoulder Press"
+      },
+      {
+        "name": "Pull",
+        "exercises": [10, 13, 27, 34, 25],
+        "sets": [2, 2, 2, 2, 2],
+        "notes": "Lat Pulldowns, T-Bar Rows, Kelso Shrugs (Upright Row), Preacher Curls, Rear Delt Flies"
+      },
+      {
+        "name": "Legs",
+        "exercises": [15, 18, 19, 16, 21],
+        "sets": [2, 2, 2, 2, 1, 1, 2],
+        "notes": "Barbell Smith Squat, Seated Leg Curls, Leg Extensions, Glute Focused Leg Press, Abductors, Adductors, Standing Calf Raises"
+      }
+    ]
+  }
+]
